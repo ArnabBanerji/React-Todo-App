@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Huzaif-Wasim/React-Todo-App.git/static/css/main.584f321a.chunk.css",
-    "main.js": "/Huzaif-Wasim/React-Todo-App.git/static/js/main.257526f7.chunk.js",
-    "main.js.map": "/Huzaif-Wasim/React-Todo-App.git/static/js/main.257526f7.chunk.js.map",
-    "runtime~main.js": "/Huzaif-Wasim/React-Todo-App.git/static/js/runtime~main.1047ce97.js",
-    "runtime~main.js.map": "/Huzaif-Wasim/React-Todo-App.git/static/js/runtime~main.1047ce97.js.map",
-    "static/js/2.4e81ba5b.chunk.js": "/Huzaif-Wasim/React-Todo-App.git/static/js/2.4e81ba5b.chunk.js",
-    "static/js/2.4e81ba5b.chunk.js.map": "/Huzaif-Wasim/React-Todo-App.git/static/js/2.4e81ba5b.chunk.js.map",
-    "index.html": "/Huzaif-Wasim/React-Todo-App.git/index.html",
-    "precache-manifest.a78ce7a46f7e27d17ee72cebf82b3a06.js": "/Huzaif-Wasim/React-Todo-App.git/precache-manifest.a78ce7a46f7e27d17ee72cebf82b3a06.js",
-    "service-worker.js": "/Huzaif-Wasim/React-Todo-App.git/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/Huzaif-Wasim/React-Todo-App.git/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/Huzaif-Wasim/React-Todo-App.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/React-Todo-App/static/css/main.584f321a.chunk.css",
+    "main.js": "/React-Todo-App/static/js/main.fad867df.chunk.js",
+    "main.js.map": "/React-Todo-App/static/js/main.fad867df.chunk.js.map",
+    "runtime~main.js": "/React-Todo-App/static/js/runtime~main.c2279f55.js",
+    "runtime~main.js.map": "/React-Todo-App/static/js/runtime~main.c2279f55.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/React-Todo-App/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/React-Todo-App/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/React-Todo-App/index.html",
+    "precache-manifest.f83832cd197934482c86be56f74c7b16.js": "/React-Todo-App/precache-manifest.f83832cd197934482c86be56f74c7b16.js",
+    "service-worker.js": "/React-Todo-App/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/React-Todo-App/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/React-Todo-App/static/media/logo.5d5d9eef.svg"
   }
 }
