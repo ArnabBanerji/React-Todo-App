@@ -1,8 +1,8 @@
 var todoData=[
-{
+{	
 	description:"Buy 1kg Tomatoes"
 },
-{
+{	
 	description:"Buy 1kg Potatoes"
 },
 {
@@ -11,7 +11,7 @@ var todoData=[
 {
 	description:"Buy 2kg Chicken"
 },
-{
+{	
 	description:"Get phone service recharge"
 }
 ]
